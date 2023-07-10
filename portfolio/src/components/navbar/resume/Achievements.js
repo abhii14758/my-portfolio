@@ -13,7 +13,7 @@ const Achivements = () => {
         {/* part one */}
         <div className='w-1/2'>
           <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
-            <p className="text-sm text-designColor tracking-[4px]">1998 - 2010</p>
+            <p className="text-sm text-designColor tracking-[4px]">2019 - 2025</p>
             <h2 className="text-3xl md:text-4xl font-bold">Education Quality</h2>
           </div>
           <div className="mt-6 lgl:mt-14 border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
