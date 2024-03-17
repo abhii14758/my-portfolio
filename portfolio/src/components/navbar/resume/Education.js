@@ -20,14 +20,14 @@ const Education = () => {
             <ResumeCard
               title="B.Tech | Computer enginnering"
               subTitle="Charotar University of Science and Technology Changa, gujarat (2021 - 2025)"
-              result="9.42/10"
+              result="9.24/10"
               des="Currently pursuing 3rd year"
             />
             <ResumeCard
               title="Higher Secondary School Education"
               subTitle="Shakti Higher Secondary School (2019 - 2021)"
               result="85/100"
-              des="Secondary education or post-primary education covers two phases on the International Standard Classification of Education scale."
+              des="Higher secondary school - 85.0%"
             />
             {/* <ResumeCard
             title="Higher Secondary School Education"
