@@ -48,7 +48,7 @@ const ProjectInfo = [
     {
         id: 2,
         title: "Resturent Management System",
-        des: "The system can help Restaurant managers and staff to efficiently manage various tasks such as reservations, room assignments, check-ins, check-outs, billing, inventory management, and customer service.",
+        des: "A fully digital system which helps waiters and chefs to colobrate easily and smooth preparation of orders of customers.",
         src: {}
 
     },
