@@ -5,7 +5,7 @@ import { IoMdCall } from 'react-icons/io'
 
 const Connect = () => {
     return (
-        <section id="let's connect" className='w-full py-40 flex'>
+        <section id="let's connect" className='w-full py-44 flex'>
             <div className='w-1/2 flex flex-col'>
                 <h4 className='text-base font-titleFont mb-4 pt-5'>FIND ME IN</h4>
                 <h1 className='text-5xl text-white mb-7 font-titleFont'>Connct</h1>
